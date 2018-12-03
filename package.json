@@ -1,0 +1,18 @@
+{
+  "name": "nodjs",
+  "version": "1.0.0",
+  "description": "koa",
+  "main": "koaPromise.js",
+  "dependencies": {
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "koa": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
